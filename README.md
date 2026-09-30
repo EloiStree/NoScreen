@@ -5,7 +5,7 @@
 
 The idea is simple:
 
- > If I were a Godot developer who wanted to work on the Steam Frame without using a screen at all, would it be possible?
+ > If I was a Godot developer who wanted to work on the Steam Frame without using a screen at all, would it be possible?
 
  That’s the challenge behind this repository.
 
