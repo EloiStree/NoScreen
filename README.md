@@ -9,7 +9,7 @@ The idea is simple:
 
  That’s the challenge behind this repository.
 
- The goal is to explore how far we can go while developing for the Steam Frame without relying on its screen. Feel free to experiment, contribute, suggest ideas, or help me figure out what’s possible.
+ The goal is to explore how far we can go while developing for the Steam Frame without relying on external screens. Feel free to experiment, contribute, suggest ideas, or help me figure out what’s possible.
 
  And if you’re around Belgium and want to experiment with me for this challenge, feel free to ping me!
 
