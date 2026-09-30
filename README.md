@@ -25,4 +25,22 @@ The idea is simple:
 
  So the Steam Deck can act as the interface for the experiment while the Steam Frame remains screen-free.
 
- I 
+
+# Setup
+
+Steam Deck / Steam Frame:   
+- https://github.com/EloiStree/HelloSteamFrame/issues/77
+
+
+# Shortcut 
+
+- F11 : Full Screen
+- ??? : Switch to Deskto left/right
+
+
+# Brain fart
+
+- Create key logger to click with jf
+- Add whisper to trigger shortcut
+- Make a hardware foot board to work in fatty position.
+- Make a GOMI 2D that work on look of the Steam Frame to trigger macro.
